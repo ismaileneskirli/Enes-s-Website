@@ -83,6 +83,7 @@ ul{
 	padding-top: 20px;
 	position: fixed;
 	bottom:	4px;
+	left: 1px;
 	color:#e2dbdb ;
 
 }
@@ -94,6 +95,6 @@ ul li{
 }
 
 p{
-	position:absolute; left: 400px; bottom: 20px; 
+	position:absolute; left: 180px; bottom: 20px; 
 	color:#e2dbdb ;
 }

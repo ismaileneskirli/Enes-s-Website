@@ -77,21 +77,23 @@ hr{
 }
 
 ul{
+
 	min-width: 696px;
 	list-style: none;
 	padding-top: 20px;
 	position: fixed;
-	bottom:	2px;
-	display: table;
-		margin-right: auto;
-	margin-left: auto;
+	bottom:	4px;
 	color:#e2dbdb ;
 
 }
 
 
 ul li{
-	margin-right: auto;
-	margin-left: auto;
+	float : center;
 	display: inline;
+}
+
+p{
+	position:absolute; left: 400px; bottom: 20px; 
+	color:#e2dbdb ;
 }
